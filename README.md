@@ -14,13 +14,7 @@ Welcome to the Udemy Clone! 🚀 This project is a static replica of the Udemy p
 - HTML5
 - CSS3
 
-## 🚀 Installation
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/udemy-clone.git
-   ```
-2. Open `index.html` in your web browser to explore the project!
+## 🚀 link[https://shivaranjani01.github.io/udemy-clone/]
 
 ## 🌈 Future Improvements
 

@@ -11,7 +11,7 @@ Features
 - **Navigation**: Intuitive navigation bar for easy access to different sections of the site.
 - **Modern UI**: Clean and modern design that mirrors the aesthetics of the original Udemy platform.
 
-  **Link**[shivaranjani01.github.io/udemy-clone/]
+  **Link**[https:/shivaranjani01.github.io/udemy-clone/]
   
 
  Technologies Used
